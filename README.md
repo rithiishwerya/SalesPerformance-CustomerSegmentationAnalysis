@@ -9,17 +9,17 @@
   Customer Segmentation – Classify customers into High, Medium, and Low-value segments.
   Discount vs. Profitability – Analyze how discounts affect profit margins.
 
-## **Step 1: SQL Data Analysis (Using Oracle Database)**
+### **Step 1: SQL Data Analysis (Using Oracle Database)**
 - Data cleaning, querying, and analysis.
-### Step 2: Excel Analysis & Pivot Tables
-            Pivot tables, formulas, and dashboard creation
+### **Step 2: Excel Analysis & Pivot Tables
+- Pivot tables, formulas, and dashboard creation
 ### Step 3: Tableau Dashboards
-            Interactive dashboards for visualization
+- Interactive dashboards for visualization
 
 ## Key Insights from the Analysis
   #### Sales Trends
-            The company’s revenue is growing, but profit margins are impacted by high discounts.
+- The company’s revenue is growing, but profit margins are impacted by high discounts.
   #### Customer Segments
-            20% of customers contribute to 80% of sales
+- 20% of customers contribute to 80% of sales
   #### Discount Impact
-            Excessive discounting reduces profitability in certain product categories.
+- Excessive discounting reduces profitability in certain product categories.
