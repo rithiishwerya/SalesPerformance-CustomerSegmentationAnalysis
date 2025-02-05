@@ -9,8 +9,8 @@
   Customer Segmentation – Classify customers into High, Medium, and Low-value segments.
   Discount vs. Profitability – Analyze how discounts affect profit margins.
 
-### Step 1: SQL Data Analysis (Using Oracle Database)
-           - Data cleaning, querying, and analysis.
+## **Step 1: SQL Data Analysis (Using Oracle Database)**
+- Data cleaning, querying, and analysis.
 ### Step 2: Excel Analysis & Pivot Tables
             Pivot tables, formulas, and dashboard creation
 ### Step 3: Tableau Dashboards
