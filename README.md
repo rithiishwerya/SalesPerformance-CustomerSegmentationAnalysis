@@ -17,8 +17,7 @@
 - Interactive dashboards for visualization
 
 ## Key Insights from the Analysis
-
-  #### Sales Trends
+  #### **Sales Trends
 - The company’s revenue is growing, but profit margins are impacted by high discounts.
   #### Customer Segments
 - 20% of customers contribute to 80% of sales
