@@ -17,6 +17,7 @@
 - Interactive dashboards for visualization
 
 ## Key Insights from the Analysis
+
   #### Sales Trends
 - The company’s revenue is growing, but profit margins are impacted by high discounts.
   #### Customer Segments
